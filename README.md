@@ -1,3 +1,3 @@
-# 2D DESIGN wOrK
+# DESIGN wOrK
 ## GAME 1: UIX_NAME
 > gamename.gif 
