@@ -87,7 +87,7 @@ git remote -v
 echo
 echo [ Done ]  Updating remote URL.
 
-git remote set-url origin https://github.com/sakib-rahman-bangladesh/2dgames-design.git
+git remote set-url origin https://github.com/sakib-rahman-bangladesh/2dgames-design-assets.git
 
 ############
 # Step: 07 #
@@ -107,4 +107,4 @@ echo 08. Pushing local codebase to remote repo...Repo-to-repo collaboration: git
 echo
 git push origin master
 
-git push --all -f https://github.com/sakib-rahman-bangladesh/2dgames-design.git
+git push --all -f https://github.com/sakib-rahman-bangladesh/2dgames-design-assets.git
