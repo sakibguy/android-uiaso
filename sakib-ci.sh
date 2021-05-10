@@ -68,7 +68,7 @@ echo
 ## makeapp 0: uix
 ## caf 0: uix
 
-git commit -m "init"
+git commit -m "CAF 1: WinCreator_UX/UI_160421"
 
 ############
 # Step: 05 #
