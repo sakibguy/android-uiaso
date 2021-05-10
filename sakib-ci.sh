@@ -66,6 +66,7 @@ echo
 ## Default: Commit skipped|forgotten
 ## new-iop-apps: [ok] classify 10k images
 ## makeapp 0: uix
+## caf 0: uix
 
 git commit -m "cleanup"
 
