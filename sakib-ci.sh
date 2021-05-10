@@ -68,7 +68,7 @@ echo
 ## makeapp 0: uix
 ## caf 0: uix
 
-git commit -m "cleanup"
+git commit -m "init"
 
 ############
 # Step: 05 #
