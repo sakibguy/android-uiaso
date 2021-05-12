@@ -68,7 +68,7 @@ echo
 ## makeapp 0: uix
 ## caf 7: ThePreciseKick_UXUI_190421
 
-git commit -m "caf 7: ThePreciseKick_UXUI_190421"
+git commit -m "caf 8: AirEruption_UX/UI_300421"
 
 ############
 # Step: 05 #
