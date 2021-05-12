@@ -66,9 +66,9 @@ echo
 ## Default: Commit skipped|forgotten
 ## new-iop-apps: [ok] classify 10k images
 ## makeapp 0: uix
-## caf 0: uix
+## caf 7: ThePreciseKick_UXUI_190421
 
-git commit -m "CAF 6: PlankTime_UXUI_300421"
+git commit -m "caf 7: ThePreciseKick_UXUI_190421"
 
 ############
 # Step: 05 #
