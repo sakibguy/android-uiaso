@@ -1,4 +1,4 @@
-# DESIGN wOrK 34
+# DESIGN wOrK 35
 
 ## 1-MAKEAPP
 ### game 1: BASKET22
@@ -24,6 +24,7 @@
 ### game 21: DUNKSHOT
 ### game 22: TAPTAPSHOTS
 ### game 23: FOODGRINDER
+### game 24: EGYPTIANKENO
 
 
 ## 2-CASHFORAPP
