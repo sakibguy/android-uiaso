@@ -1,9 +1,10 @@
-# DESIGN wOrK 12)
+# DESIGN wOrK 13
 
-## 1-MAKEAPP (1
+## 1-MAKEAPP
 ### game 1: BASKET22
+### game 2: Wolf Secrets
 
-## 2-CASHFORAPP (11
+## 2-CASHFORAPP
 ### game 1: WinCreator_UX/UI_160421
 ### game 2: SortingSporter_UXUI_160421
 ### game 3: DodgeOlObstacles_UX/UI_160421
