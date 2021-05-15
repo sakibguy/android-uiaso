@@ -69,7 +69,7 @@ echo
 ## caf 7: ThePreciseKick_UXUI_190421
 ## obstacle 12: BASKET22
 
-git commit -m "obstacle 17: ROBBER LOCK"	
+git commit -m "obstacle 18: LEPRECHAUNS ROAD"	
 
 ############
 # Step: 05 #
