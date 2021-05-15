@@ -1,4 +1,4 @@
-# DESIGN wOrK 19
+# DESIGN wOrK 20
 
 ## 1-MAKEAPP
 ### game 1: BASKET22
@@ -9,6 +9,7 @@
 ### game 6: ROBBER LOCK
 ### game 7: LEPRECHAUNS ROAD
 ### game 8: CARS
+### game 9: EGYPTIAN BRICKS
 
 ## 2-CASHFORAPP
 ### game 1: WinCreator_UX/UI_160421
