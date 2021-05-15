@@ -1,4 +1,4 @@
-# DESIGN wOrK 49
+# DESIGN wOrK 50
 
 ## 1-MAKEAPP
 ### game 1: BASKET22
@@ -39,6 +39,7 @@
 ### game 36: LUMBERRUNNER
 ### game 37: MOVINGUP
 ### game 38: SHEEPOPWOLF
+### game 39: 3 BIGGAMES KENO-LEPRECHAUN-EGYPTIAN
 
 ## 2-CASHFORAPP
 ### game 1: WinCreator_UX/UI_160421
