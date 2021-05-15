@@ -67,8 +67,9 @@ echo
 ## new-iop-apps: [ok] classify 10k images
 ## makeapp 0: uix
 ## caf 7: ThePreciseKick_UXUI_190421
+## obstacle 12: TARGET_NAME
 
-git commit -m "caf 11: ParkingStadium_UX/UI_060521"
+git commit -m "obstacle 12: BASKET22"
 
 ############
 # Step: 05 #
