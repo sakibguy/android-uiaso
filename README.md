@@ -1,4 +1,4 @@
-# DESIGN wOrK 42
+# DESIGN wOrK 43
 
 ## 1-MAKEAPP
 ### game 1: BASKET22
@@ -32,6 +32,7 @@
 ### game 29: LUCKY7
 ### game 30: ARCHER LEPRECHAUN
 ### game 31: SPINNINGLEPRECHAUN 
+### game 32: MYANDOTS
 
 ## 2-CASHFORAPP
 ### game 1: WinCreator_UX/UI_160421
