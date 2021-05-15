@@ -34,6 +34,7 @@
 ### game 31: SPINNINGLEPRECHAUN 
 ### game 32: MYANDOTS
 ### game 33: BOXJUMPUP
+### game 34: TRIGONFRVR
 
 ## 2-CASHFORAPP
 ### game 1: WinCreator_UX/UI_160421
