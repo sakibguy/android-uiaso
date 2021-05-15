@@ -36,6 +36,7 @@
 ### game 33: BOXJUMPUP
 ### game 34: TRIGONFRVR
 ### game 35: OHFLIP
+### game 36: LUMBERRUNNER
 
 ## 2-CASHFORAPP
 ### game 1: WinCreator_UX/UI_160421
