@@ -1,4 +1,4 @@
-# DESIGN wOrK 25
+# DESIGN wOrK 26
 
 ## 1-MAKEAPP
 ### game 1: BASKET22
@@ -15,6 +15,7 @@
 ### game 12: GOLDEN HERO
 ### game 13: JOKER ORBIT
 ### game 14: GHOST GAME
+### game 15: PIRATE
 
 ## 2-CASHFORAPP
 ### game 1: WinCreator_UX/UI_160421
