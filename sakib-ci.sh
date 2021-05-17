@@ -69,7 +69,7 @@ echo
 ## caf 7: ThePreciseKick_UXUI_190421
 ## obstacle 12: BASKET22
 
-git commit -m "obstacle 50: 3 BIGGAMES KENO-LEPRECHAUN-EGYPTIAN"	
+git commit -m "obstacle 51: BouncingBalls_UX/UI_300421"	
 
 ############
 # Step: 05 #
