@@ -69,7 +69,7 @@ echo
 ## caf 7: ThePreciseKick_UXUI_190421
 ## obstacle 12: BASKET22
 
-git commit -m "obstacle 58: GolfImpetus_UXUI_210521"	
+git commit -m "obstacle 59: DeepSport_UXUI_210521"	
 
 ############
 # Step: 05 #
