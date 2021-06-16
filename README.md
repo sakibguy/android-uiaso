@@ -1,4 +1,4 @@
-# DESIGN wOrK 74
+# DESIGN wOrK 75
 
 ## 1-MAKEAPP
 ### game 1: BASKET22
@@ -77,3 +77,4 @@
 ### game 33: WallsBall_UX/UI_040621
 ### game 34: FootballRush_UX/UI_040621
 ### game 35: SoccerMower_UX/UI_110621
+### game 36: TakeaPenaltyShot_040621
