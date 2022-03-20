@@ -1,4 +1,4 @@
-# DESIGN wOrK 102
+# DESIGN wOrK 107
 
 ## 1-MAKEAPP
 ### game 1: BASKET22
@@ -105,3 +105,8 @@
 ### game 57: ChallengeXTwo_UX/UI_300721
 ### game 58: SoccerProfit_UX/UI_060821
 ### game 59: MillionSpin_UX/UI_050821
+### game 60: Ace of Spades
+### game 61: Electric touch
+### game 62: Duck Protection
+### game 63: SportingMaj_UI_160322
+### game 64: Race against the machine
