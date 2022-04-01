@@ -1,4 +1,4 @@
-# DESIGN wOrK 113
+# DESIGN wOrK 115
 
 ## 1-MAKEAPP
 ### game 1: BASKET22
@@ -47,6 +47,8 @@
 ### game 44: UNLOCKIT
 ### game 45: FOXANDSKI
 ### game 46: SUSHISHOOTER
+### game 47: ZHABAGAME
+### game 48: RISKYCAS
 
 ## 2-CASHFORAPP
 ### game 1: WinCreator_UX/UI_160421
