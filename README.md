@@ -1,4 +1,4 @@
-# DESIGN wOrK 116
+# DESIGN wOrK 118
 
 ## 1-MAKEAPP
 ### game 1: BASKET22
@@ -50,6 +50,8 @@
 ### game 47: ZHABAGAME
 ### game 48: RISKYCAS
 ### game 49: SAMESHAPE
+### game 50: KICKTHEBALL
+### game 51: CLICKTRICK
 
 ## 2-CASHFORAPP
 ### game 1: WinCreator_UX/UI_160421
