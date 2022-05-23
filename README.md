@@ -1,4 +1,4 @@
-# DESIGN wOrK 138
+# DESIGN wOrK 140
 
 ## 1-MAKEAPP
 ### game 1: BASKET22
@@ -72,6 +72,8 @@
 ### game 67: SPINNINGCOLORS
 ### game 68: COLORSFORWARD
 ### game 69: SPACESTARADVENTURE
+### game 70: GONETHROUGH
+### game 71: FISHINGFAZE
 
 ## 2-CASHFORAPP
 ### game 1: WinCreator_UX/UI_160421
