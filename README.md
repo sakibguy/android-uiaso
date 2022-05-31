@@ -1,4 +1,4 @@
-# DESIGN wOrK 147
+# DESIGN wOrK 148
 
 ## 1-MAKEAPP
 ### game 1: BASKET22
@@ -81,6 +81,7 @@
 ### game 76: SPIRALJOURNEY
 ### game 77: FOOTBALLEFFECT
 ### game 78: STOPTHEDROP
+### game 79: COLOROID
 
 ## 2-CASHFORAPP
 ### game 1: WinCreator_UX/UI_160421
