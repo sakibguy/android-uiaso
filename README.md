@@ -1,4 +1,4 @@
-# DESIGN wOrK 154
+# DESIGN wOrK 155
 
 ## 1-MAKEAPP
 ### game 1: BASKET22
@@ -88,6 +88,7 @@
 ### game 83: TRAFFICRUN
 ### game 84: FOOTBALLBUCKETCHALLENGE
 ### game 85: THRILLRACE
+### game 86: CHICKENJUMP
 
 ## 2-CASHFORAPP
 ### game 1: WinCreator_UX/UI_160421
