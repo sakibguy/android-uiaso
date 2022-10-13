@@ -1,4 +1,4 @@
-# DESIGN wOrK 164
+# DESIGN wOrK 165
 
 ## 1-MAKEAPP
 ### game 1: BASKET22
@@ -98,6 +98,7 @@
 ### game 93: SIMONSPIANO
 ### game 94: PHONESAYS
 ### game 95: MEMOZOR
+### game 96: 365DEGREES
 
 ## 2-CASHFORAPP
 ### game 1: WinCreator_UX/UI_160421
